@@ -126,6 +126,11 @@ h2{
    background-size: 5%;
    background-position: right;
 }
+.skills-area{
+    background-image: url(images/shapes/shape-4.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+}
 .footer-style{
     text-align: center;
     font-family: 'Lobster', cursive;
