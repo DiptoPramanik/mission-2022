@@ -1,0 +1,144 @@
+body{
+    margin: 0;
+}
+section{
+    margin-bottom: 100px;
+}
+.font-family1{
+    font-family: 'Yeseva One', cursive;
+}
+h1{
+    font-size: 60px;
+}
+#font-highlight{
+    color:#FFAD5A ;
+}
+p{
+   color:#3E3E3E;
+   font-size: 18px;
+}
+.link-button{
+    text-decoration: none;
+    background-color:#FF5959 ;
+    color: white;
+    padding: 12px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+.fexible-area{
+    display: flex;
+    flex-direction: row;
+}
+.border-style{
+    border-left: 5px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+.half-width{
+    width: 50%;
+    padding-left: 8%;
+}
+.half-width img{
+    width: 80%;
+}
+.top-part{
+    margin-top: 100px;
+}
+.highlight{
+    color:#FFAD5A;
+}
+.card-section{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+.font-family2{
+    font-family: 'Poppins', sans-serif;
+}
+.cards{
+    display: flex;
+    margin-left: 4%;
+    margin-right: 6%;
+    
+}
+  
+.cards img{
+    width: 150px;
+}
+.card-style{
+    width: 30%;
+    margin-left: 5%;
+    padding: 2%;
+    text-align: justify;
+ 
+}
+#card-1{
+    background-color: rgba(79, 157, 166, 0.1);
+    border-radius: 25px;
+    width: 350px;
+    height: 370px;
+}
+#card-2{
+    background-color: rgba(255, 89, 89, 0.1);
+    border-radius:25px;
+    width: 350px;
+    height: 370px;
+}
+#card-3{
+    background-color: #FFF4D6;
+    border-radius: 25px;
+    width: 360px;
+    height: 379px;
+}
+h2{
+    color: black;
+    font-size: 50px;
+}
+.coding{
+    margin-right: 15%;
+}
+.development{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 16%;
+}
+.community{
+    background-image: url(images/shapes/shape-1.png);
+    background-position: right;
+    background-size: 20%;
+    background-repeat: no-repeat;
+}
+.alignment{
+    text-align: center;
+}
+.gocorona{
+    margin-right: 8%;
+}
+.application{
+    background-image: url(images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+   background-size: 30%;
+}
+.bg-image{
+    background-image: url(images/shapes/shape-5.png);
+    background-repeat: no-repeat;
+   background-size: 5%;
+   background-position: right;
+}
+.footer-style{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 100px;
+    height: 200px;
+}
+.copyright{
+    text-align: center;
+  font-weight: 600;
+
+}
+footer{
+   background-color:#0B0D17;
+}
